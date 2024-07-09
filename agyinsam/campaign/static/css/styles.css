@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.header, .footer {
+    background-color: #bf0a30;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer {
+    background-color: #002868;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    background-color: #002868;
+}
+
+.navbar .navbar-brand, .navbar .nav-link {
+    color: white;
+}
+
+.navbar .nav-link:hover {
+    color: #bf0a30;
+}
+
+.jumbotron {
+    background-color: #613737;
+    border-radius: 5px;
+    padding: 2rem 2rem;
+    size: 0cqmax;
+}
+
+.card {
+    border: 1px solid #002868;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #bf0a30;
+}
